@@ -45,9 +45,9 @@ describe('reducer', () => {
 				pair: ['Trainspotting', '28 Days Later'],
 				tally: {
 					Trainspotting: 1
-				},
-				entries: []
-			}
+				}
+			},
+			entries: []
 		}));
 	});
 
